@@ -15,7 +15,6 @@ Multiclass Classification with ML.NET Chat Bot implementation!
 • ML.NET Model Builder for rapid text classification prototyping
 • Sentiment analysis → AdaptiveCard → ChatBot conversation flow
 
-📁 GitHub Repo: [https://lnkd.in/gzpqs2ep]
 🖼️ Preview:
 This project helped me bridge backend ML predictions with user-facing bot experiences—making outputs not just accurate, but actionable.
 hashtag
